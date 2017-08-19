@@ -1,5 +1,5 @@
 
-public class solido {
+public class Solido {
 	protected float altura;
 	public float getAltura() {
 		return altura;
