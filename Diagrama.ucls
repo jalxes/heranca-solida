@@ -49,7 +49,7 @@
   </class>  
   <class id="6" language="java" name="Solido" project="heranca-solida" file="/heranca-solida/src/Solido.java" 
     binary="false" corner="BOTTOM_RIGHT">    
-    <position height="-1" width="-1" x="453" y="163"/>    
+    <position height="-1" width="-1" x="491" y="134"/>    
     <display autosize="true" stereotype="true" package="true" initial-value="false" signature="true" 
       sort-features="false" accessors="true" visibility="true">      
       <attributes public="true" package="true" protected="true" private="true" static="true"/>      
