@@ -2,4 +2,4 @@
 
 ## Arquivos
 - dentro do diretório src estão os .java
-- dentro do diretório png estão os diagramas 
+- diagrama completo no arquivo Diagrama.png 
