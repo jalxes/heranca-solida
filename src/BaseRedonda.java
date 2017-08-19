@@ -1,12 +1,12 @@
 
 public class BaseRedonda extends Solido {
-protected double raio;
+	protected double raio;
 
-public double getRaio() {
-	return raio;
-}
+	public double getRaio() {
+		return raio;
+	}
 
-public void setRaio(double raio) {
-	this.raio = raio;
-}
+	public void setRaio(double raio) {
+		this.raio = raio;
+	}
 }
